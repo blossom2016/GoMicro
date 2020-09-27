@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a75d7fc9-a952-4bce-a83a-c4aba62cfc0e" name="Default Changelist" comment="" />
+    <list default="true" id="a75d7fc9-a952-4bce-a83a-c4aba62cfc0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/svc.go" beforeDir="false" afterPath="$PROJECT_DIR$/svc.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="/snap/go/current" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -38,6 +61,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -46,5 +80,9 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="514" y="330" key="#GOROOT/72.27.1294.741@72.27.1294.741" timestamp="1601151641837" />
+    <state x="578" y="297" width="281" height="207" key="Github.ShareDialog" timestamp="1601220721889">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="578" y="297" width="281" height="207" key="Github.ShareDialog/72.27.1294.741@72.27.1294.741" timestamp="1601220721889" />
   </component>
 </project>

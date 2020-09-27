@@ -12,11 +12,11 @@ import (
 func main() {
 	repository.AddProduct(models.Product{
 		Name:      "Milk",
-		UnitPrice: 4.00,
+		UnitPrice: 50.00,
 	})
 	repository.AddProduct(models.Product{
 		Name:      "Bread",
-		UnitPrice: 5.00,
+		UnitPrice: 500.00,
 	})
 
 	http.HandleFunc("/", handlers.HandleRequest)
